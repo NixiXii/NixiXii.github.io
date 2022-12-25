@@ -1,0 +1,87 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+
+}
+.days{
+height: 60px;
+
+}
+.ran{
+background-color: green;
+}
+.didntRan{
+background-color: red;
+}
+img{
+width: 70%;
+}
+
+
+.container{
+  margin-top: 70px;
+  overflow: hidden;
+  text-align: center;
+}
+.closeBtn{
+  position: absolute;
+}
+
+.closeBtnContainer{
+  position: absolute;
+}
+
+#btnClose1{
+ top: 50px;
+  right: 100px;
+  
+}
+
+#btnClose3{
+ top: 50%;
+ right: 100px;
+}
+#btnClose4{
+top: 100%;
+ right: 100px;
+}
+#btnClose5{
+ top: 150%;
+  right: 100px;
+}
+#btnClose6{
+ top: 200%;
+  right: 100px;
+}
+#btnClose7{
+ top: 250%;
+  right: 100px;
+}
+
+#btnClose8{
+ top: 350%;
+  right: 100px;
+}
+
+#btnClose9{
+ top: 400%;
+  right: 100px;
+}
+
+#btnClose10{
+ top: 450%;
+  right: 100px;
+}
+
+#btnClose11{
+ top: 500%;
+  right: 100px;
+}
+
+.restart{
+margin-top: 30px;
+}
+
+
+
